@@ -16,6 +16,7 @@
 - https://github.com/assetnote/kiterunner#api-scanning
 ### People High Skilled on API VUlnerabilities
 - https://twitter.com/InonShkedy
+- https://twitter.com/dsopas
 ## Resources
 - https://github.com/dsopas/MindAPI
 - https://github.com/smodnix/31-days-of-API-Security-Tips
