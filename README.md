@@ -2,7 +2,7 @@
 ## Owned by 
 h3v0x, letfornz and zeroc00I
 ## Progress
-### Videos Watched
+### Watched Videos
 - https://www.youtube.com/watch?v=qqmyAxfGV9c [API hacking for the Actually Pretty Inexperienced hacker with Katie Paxton-Fear - OWASP DevSlop]
 - [IN PROGRESS] https://www.youtube.com/watch?v=UT7-ZVawdzA [Bad API, hAPI Hackers! by jr0ch17]
   - Generate error messages
