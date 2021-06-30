@@ -12,9 +12,11 @@
 - https://youtu.be/HXci0-NSwOs?t=2770 [Live API Bug Bounty Training - The Hacktivists]
   - Account take over using open redirect vector attack through redirect_uri without any validation (whitelist uri's) 
 ### Tools to improve skills
+- https://github.com/Teebytes/TnT-Fuzzer
 - https://github.com/assetnote/kiterunner#api-scanning
 ### People High Skilled on API VUlnerabilities
 - https://twitter.com/InonShkedy
 ## Resources
+- https://github.com/dsopas/MindAPI
 - https://github.com/smodnix/31-days-of-API-Security-Tips
 - https://github.com/arainho/awesome-api-security
