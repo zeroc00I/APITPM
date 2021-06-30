@@ -9,6 +9,8 @@ h3v0x, letfornz and zeroc00I
   - Send different types of data that it's not expecting (string, int, bool, array)
   - Try all methods (GET, POST, PUT, PATCH, DELETE, QWE)
   - Send malformated JSON {"Bugcrowd":"LevelUp0x3""}
+- https://youtu.be/HXci0-NSwOs?t=2770 [Live API Bug Bounty Training - The Hacktivists]
+  - Account take over using open redirect vector attack through redirect_uri without any validation (whitelist uri's) 
 ### Tools to improve skills
 - https://github.com/assetnote/kiterunner#api-scanning
 ## Resources
