@@ -13,5 +13,7 @@ h3v0x, letfornz and zeroc00I
   - Account take over using open redirect vector attack through redirect_uri without any validation (whitelist uri's) 
 ### Tools to improve skills
 - https://github.com/assetnote/kiterunner#api-scanning
+### People High Skilled on API VUlnerabilities
+- https://twitter.com/InonShkedy
 ## Resources
 https://github.com/arainho/awesome-api-security
