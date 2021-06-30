@@ -16,4 +16,5 @@ h3v0x, letfornz and zeroc00I
 ### People High Skilled on API VUlnerabilities
 - https://twitter.com/InonShkedy
 ## Resources
+https://github.com/smodnix/31-days-of-API-Security-Tips
 https://github.com/arainho/awesome-api-security
