@@ -1,6 +1,6 @@
 # APITPM - A deep dive into API Security
 ## Owned by 
-h3v0x, letfornz and zeroc00I
+- h3v0x, letfornz and zeroc00I
 ## Progress
 ### Watched Videos
 - https://www.youtube.com/watch?v=qqmyAxfGV9c [API hacking for the Actually Pretty Inexperienced hacker with Katie Paxton-Fear - OWASP DevSlop]
@@ -16,5 +16,5 @@ h3v0x, letfornz and zeroc00I
 ### People High Skilled on API VUlnerabilities
 - https://twitter.com/InonShkedy
 ## Resources
-https://github.com/smodnix/31-days-of-API-Security-Tips
-https://github.com/arainho/awesome-api-security
+- https://github.com/smodnix/31-days-of-API-Security-Tips
+- https://github.com/arainho/awesome-api-security
