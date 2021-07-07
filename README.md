@@ -12,6 +12,8 @@
 - https://youtu.be/HXci0-NSwOs?t=2770 [Live API Bug Bounty Training - The Hacktivists]
   - Account take over using open redirect vector attack through redirect_uri without any validation (whitelist uri's)
 - https://www.youtube.com/watch?v=hNs8fpWfcyU [API Recon with Kiterunner - Hacker Toolbox with Katie Paxton]
+### Articles
+- https://www.synack.com/blog/mass-assignment-exploitation-in-the-wild-escalating-privileges-in-style/ [Nagli from Synack]
 ### Tools to improve skills
 - https://github.com/Teebytes/TnT-Fuzzer
 - https://github.com/assetnote/kiterunner#api-scanning
