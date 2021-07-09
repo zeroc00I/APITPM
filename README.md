@@ -18,6 +18,7 @@
   - XXE solved cause its rest
   - Path manipulation solved cause its Cloud Based Storage (S3)
 ### Articles
+- https://cyc0rpion.medium.com/exploiting-owasp-top-10-api-vulnerabilities-fb9d4b1dd471
 - https://www.synack.com/blog/mass-assignment-exploitation-in-the-wild-escalating-privileges-in-style/ [Nagli from Synack]
 ### Tools to improve skills
 - https://github.com/Teebytes/TnT-Fuzzer
