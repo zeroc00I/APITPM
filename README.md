@@ -27,6 +27,7 @@
 - https://twitter.com/InonShkedy
 - https://twitter.com/dsopas
 ## Resources
+- https://application.security/free/owasp-top-10-API [Kontra]
 - https://github.com/dsopas/MindAPI
 - https://github.com/smodnix/31-days-of-API-Security-Tips
 - https://github.com/arainho/awesome-api-security
