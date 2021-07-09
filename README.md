@@ -13,7 +13,7 @@
   - Account take over using open redirect vector attack through redirect_uri without any validation (whitelist uri's)
 - https://www.youtube.com/watch?v=hNs8fpWfcyU [API Recon with Kiterunner - Hacker Toolbox with Katie Paxton]
 - https://www.youtube.com/watch?v=zW8QF3x3oSU [Mateusz Olejarka - REST API, pentester's perspective]
-- https://www.youtube.com/watch?v=Gc7EUjRsrSo&list=PLpr-xdpM8wG9Pl8MLCdkU1Dq34Cl0NPOc&index=15 [Testing and Hacking APIs INON SHKEDY]
+- https://www.youtube.com/watch?v=Gc7EUjRsrSo [Testing and Hacking APIs INON SHKEDY]
   - Sqli solved by using ORM
   - XXE solved cause its rest
   - Path manipulation solved cause its Cloud Based Storage (S3)
