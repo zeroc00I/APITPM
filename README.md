@@ -17,12 +17,19 @@
   - Sqli solved by using ORM
   - XXE solved cause its rest
   - Path manipulation solved cause its Cloud Based Storage (S3)
+- https://testautomationu.applitools.com/exploring-service-apis-through-test-automation/chapter3.0.html
+  - How to use postman 
+- https://www.youtube.com/watch?v=5UTHUZ3NGfw [Analyzing The OWASP API Security Top 10 For Pen Testers]
 ### Articles
 - https://cyc0rpion.medium.com/exploiting-owasp-top-10-api-vulnerabilities-fb9d4b1dd471
 - https://www.synack.com/blog/mass-assignment-exploitation-in-the-wild-escalating-privileges-in-style/ [Nagli from Synack]
 ### Tools to improve skills
+#### Fuzzers
 - https://github.com/Teebytes/TnT-Fuzzer
 - https://github.com/assetnote/kiterunner#api-scanning
+#### APK Endpoints grabbers
+- https://github.com/s0md3v/Diggy
+- https://github.com/ndelphit/apkurlgrep
 ### People High Skilled on API VUlnerabilities
 - https://twitter.com/InonShkedy
 - https://twitter.com/dsopas
